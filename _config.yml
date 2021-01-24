@@ -91,7 +91,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
+        title:  <span style="color:#DAA520">Duoc</span> <span style="color:MidnightBlue">UC </span>
         caption: 2010 - 2013
         sub_title: BSc Computer Science
         quote: >
