@@ -9,14 +9,14 @@ version: 2
 # Personal info
 name: Lukas Lee 
 title: Estudiando soluciones de Conectividad y Redes
-email: lukas@lleen.tech
+#email: lukas@lleen.tech
 website: llee.live
 
 # Dark Mode (true/false/never)
 darkmode: never
 
 # Social links
-twitter_username: siguemen
+#twitter_username: siguemen
 github_username:  skoll43
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
@@ -31,10 +31,10 @@ linkedin_username: lukas-lee
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+#additional_links:
+#- title: itsgoingto.be
+#  icon: fas fa-globe
+#  url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -80,7 +80,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Entrenamiento en soporte informático, introducción de enrutado y redes, conceptos de informática computacional, powershell/bash básico, administración de infraestructuras pequeñas y conceptos básicos de implementaciones de seguridad
           
-          Para complementar los cursos de Duoc!
+          - <a href="https://www.coursera.org/account/accomplishments/professional-cert/VDX2PGZBALPT?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof">Certificado</a>
         
       - layout: left
         title: Cisco Networking Academy
@@ -124,16 +124,16 @@ content:
           
         description: | # this will include new lines to allow paragraphs
 
-  - title: En mi tiempo libre
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Entre otros de mis intereses y hobbies estan:
-      - Gaming
-      - Caminar por deporte jaja
-      - Saturar esta web
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+#  - title: En mi tiempo libre
+#    layout: text
+#    content: | # this will include new lines to allow paragraphs
+#      Entre otros de mis intereses y hobbies estan:
+ #     - Gaming
+ #     - Caminar por deporte jaja
+#      - Saturar esta web
+#      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
-       <i class="fas fa-code"></i><a href="https://github.com/sproogen/modern-resume-theme">~~Inspirarse en plantillas~~</a>
+#       #<i class="fas fa-code"></i><a href="https://github.com/sproogen/modern-resume-theme">~~Inspirarse en plantillas~~</a>
 
 # Footer
 footer_show_references: true
